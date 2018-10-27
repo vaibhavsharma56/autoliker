@@ -1,0 +1,24 @@
+Open 
+
+autocomment.php
+autofollow.php
+config.php
+finish.php
+gs.php
+Like.php
+page.php
+
+and change the database details in the files.
+
+After that Open
+
+login.php
+bot_comments.php
+index.php
+like.php
+
+and change kedaiklan.com link to your website link.
+
+You can remove kedaiklan.com link from other files also
+
+Thanks for downloading.
