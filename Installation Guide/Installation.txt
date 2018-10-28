@@ -10,15 +10,12 @@ page.php
 
 and change the database details in the files.
 
-After that Open
+Then Open :
 
-login.php
-bot_comments.php
+login.php // To login
+bot_comments.php // To auto comment
 index.php
-like.php
+like.php // To send likes
 
-and change kedaiklan.com link to your website link.
-
-You can remove kedaiklan.com link from other files also
 
 Thanks for downloading.
