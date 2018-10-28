@@ -81,22 +81,7 @@ if(empty($agree)) {
 }
 ////////////////////////
 
-
-////////////////////////
-// Agree to terms checkbox is required
-if(empty($agree)) {
-	$error = 'Attention! Please agree to our terms.';
-}
-////////////////////////
-
-
-////////////////////////
-// Verification field is required
-if(empty($posted_verify)) {
-	$error = 'Attention! Please enter the verification code.';
-} else if($session_verify != $posted_verify) {
-	$error = 'Attention! The verification code you entered is incorrect.';
-}
+// This function was extra
 ////////////////////////
 
 // End verification.
